@@ -115,7 +115,7 @@ int main()
     insert(89);
     insert(8888);*/
 
-    for(int i = 0;i<=101;i++){
+    for(int i = 0;i<=200;i++){
 
         insert(i);
 
